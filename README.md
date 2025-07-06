@@ -121,6 +121,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P3 Finl - 0.0 - Create pyplot.html; Modify README.md
 - P3 Sect - 4.0 - Modify pyplot.ipynb. README.md
 - P3 Sect - 3.0 - Modify pyplot.ipynb. README.md
 - P3 Sect - 2.0 - Modify pyplot.ipynb. README.md
