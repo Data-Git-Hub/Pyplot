@@ -89,7 +89,7 @@ Export Using Jupyter Menu via VS Code was utilized for HTML exports.
 
 ### Tasks
 
-### Section 1.
+### Section 1. Character Frequency Visualization
 
 ### Section 2.
 
@@ -121,5 +121,6 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P3 Sect - 1.0 - Modify pyplot.ipynb. README.md
 - P3 Init - 0.0 - Create pyplot.ipynb, requirements.txt; Modify README.md 
 ## Test History 
