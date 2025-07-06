@@ -127,4 +127,5 @@ Contributors names and contact info <br>
 - P3 Sect - 2.0 - Modify pyplot.ipynb. README.md
 - P3 Sect - 1.0 - Modify pyplot.ipynb. README.md
 - P3 Init - 0.0 - Create pyplot.ipynb, requirements.txt; Modify README.md 
-## Test History 
+## Test History
+- P3 Test - 1.0 - Execute pyplot.ipynb 
