@@ -95,7 +95,7 @@ Export Using Jupyter Menu via VS Code was utilized for HTML exports.
 
 ### Section 3. Restyled Scatter and Line Plots of Random Prime Numbers
 
-### Section 4.
+### Section 4. Comparing Sorting Algorithm Performance
 
 ---
 
@@ -121,6 +121,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P3 Sect - 4.0 - Modify pyplot.ipynb. README.md
 - P3 Sect - 3.0 - Modify pyplot.ipynb. README.md
 - P3 Sect - 2.0 - Modify pyplot.ipynb. README.md
 - P3 Sect - 1.0 - Modify pyplot.ipynb. README.md
