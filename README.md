@@ -93,7 +93,7 @@ Export Using Jupyter Menu via VS Code was utilized for HTML exports.
 
 ### Section 2. Visualizing a Sequence of Random Prime Numbers
 
-### Section 3.
+### Section 3. Restyled Scatter and Line Plots of Random Prime Numbers
 
 ### Section 4.
 
@@ -121,6 +121,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P3 Sect - 3.0 - Modify pyplot.ipynb. README.md
 - P3 Sect - 2.0 - Modify pyplot.ipynb. README.md
 - P3 Sect - 1.0 - Modify pyplot.ipynb. README.md
 - P3 Init - 0.0 - Create pyplot.ipynb, requirements.txt; Modify README.md 
