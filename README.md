@@ -11,44 +11,23 @@ Open a PowerShell terminal in VS Code.
 Create local project virtual environment, activate it, and install packages. 
 When asked to use the new .venv click yes. 
 
-Important: Install from requirements first with scikit-learn commented out. 
-Then remove the leading hashmark (around line 187) and re-run the command to install scikit-learn.
-See requirements.txt for more information. 
-
-
 ```shell
 py -m venv .venv
 .\.venv\Scripts\activate
 py -m pip install --upgrade pip setuptools wheel
 py -m pip install -r requirements.txt
 ```
-### Remove "#" TBD. from requirements.txt
-
-```shell
-py -m pip install -r requirements.txt
-```
-
----
 
 ## macOS/Linux Setup Instructions
 
 Open a default terminal in VS Code. 
 Create local project virtual environment, activate it, and install packages. 
-Important: Install from requirements first with scikit-learn commented out. 
-Then remove the leading hashmark (around line 187) and re-run the command to install scikit-learn.
-See requirements.txt for more information. 
 
 ```zsh
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install --upgrade pip setuptools wheel
 python3 -m pip install -r requirements.txt
-```
-
-### Remove "#" TBD. from requirements.txt
-
-```zsh
-py -m pip install -r requirements.txt
 ```
 
 ---
@@ -121,6 +100,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P3 Finl - 0.1 - Modify README.md
 - P3 Finl - 0.0 - Create pyplot.html; Modify README.md
 - P3 Sect - 4.0 - Modify pyplot.ipynb. README.md
 - P3 Sect - 3.0 - Modify pyplot.ipynb. README.md
